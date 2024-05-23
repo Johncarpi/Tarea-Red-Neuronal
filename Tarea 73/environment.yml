@@ -1,0 +1,17 @@
+name: General
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+  - torchvision
+dependencies:
+  - python=3.10
+  - pytorch
+  - pandas
+  - jupyter
+  - matplotlib
+  - tensorboard
+  - scikit-learn
+  - torchmetrics
+  - polars
+  
